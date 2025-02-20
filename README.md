@@ -1,9 +1,10 @@
 ## Hi there 👋
 💫 About Me:
-🌱 I’m currently learning M.E.R.N
-💬 Ask me about React,CSS,HTML,Javacript
-👨‍💻 All of my projects are available here.
-📫 How to reach me --amritapritam754@gmail.com
+
+-🌱 I’m currently learning M.E.R.N
+-💬 Ask me about React,CSS,HTML,Javacript
+-👨‍💻 All of my projects are available here.
+-📫 How to reach me --amritapritam754@gmail.com
 
 
 <!--
