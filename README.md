@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning M.E.R.N.
 - 💬 Ask me about React, CSS, HTML, JavaScript.
 - 👨‍💻 All of my projects are available here.
-- 📫 How to reach me: [amritapritam754@gmail.com](mailto:amritapritam754@gmail.com)
+- 📫 How to reach me: [amritapritam7594@gmail.com](mailto:amritapritam754@gmail.com)
 
   # 📊 GitHub Stats:
   
